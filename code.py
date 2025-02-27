@@ -4,4 +4,4 @@ for x in name:
 
 print("Hello! Deveploers")
 
-print("This is changed")
+print("This is changes")
